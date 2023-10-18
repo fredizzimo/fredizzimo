@@ -1,4 +1,4 @@
-### Hi there 👋
+[![An image of @fredizzimo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fredizzimo)](https://holopin.io/@fredizzimo)
 
 <!--
 **fredizzimo/fredizzimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
